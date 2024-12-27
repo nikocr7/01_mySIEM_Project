@@ -1,0 +1,6 @@
+2024-12-27T00:22:34.019Z - Server läuft auf http://localhost:3000
+2024-12-27T00:22:34.026Z - Datenbank verbunden
+2024-12-27T00:22:54.472Z - Neuer Log-Eintrag hinzugefügt: {"file":"test.log","timestamp":"2024-12-27 01:22:54","line":"ig --global user.name \"nikocr7\"","_id":"676df35ee225c281b00e4ec5"}
+2024-12-27T00:22:54.478Z - Neuer Log-Eintrag hinzugefügt: {"file":"test.log","timestamp":"2024-12-27 01:22:54","line":"git config --global user.email \"niko-star@live.de\"","_id":"676df35ee225c281b00e4ec7"}
+2024-12-27T00:22:54.481Z - Neuer Log-Eintrag hinzugefügt: {"file":"test.log","timestamp":"2024-12-27 01:22:54","line":"sudo lan","_id":"676df35ee225c281b00e4ec9"}
+2024-12-27T00:22:54.484Z - Neuer Log-Eintrag hinzugefügt: {"file":"test.log","timestamp":"2024-12-27 01:22:54","line":"amk","_id":"676df35ee225c281b00e4ecb"}

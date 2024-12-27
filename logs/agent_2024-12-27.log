@@ -1,0 +1,7 @@
+[2024-12-27 01:22:44.442004] main SIEM-Agent wird gestartet.
+[2024-12-27 01:22:44.442528] INFO Erster Start: Datei test.log zum Ende verschoben.
+[2024-12-27 01:22:54.475224] INFO Erfolgreich gesendet: {'file': 'test.log', 'timestamp': '2024-12-27 01:22:54', 'line': 'ig --global user.name "nikocr7"'}
+[2024-12-27 01:22:54.478956] INFO Erfolgreich gesendet: {'file': 'test.log', 'timestamp': '2024-12-27 01:22:54', 'line': 'git config --global user.email "niko-star@live.de"'}
+[2024-12-27 01:22:54.482498] INFO Erfolgreich gesendet: {'file': 'test.log', 'timestamp': '2024-12-27 01:22:54', 'line': 'sudo lan'}
+[2024-12-27 01:22:54.485762] INFO Erfolgreich gesendet: {'file': 'test.log', 'timestamp': '2024-12-27 01:22:54', 'line': 'amk'}
+[2024-12-27 01:23:52.207028] main SIEM-Agent gestoppt.

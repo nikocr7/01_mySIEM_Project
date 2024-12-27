@@ -1,4 +1,7 @@
 sudo nmap
 s
 tes
+git config --global user.name "nikocr7"
+git config --global user.email "niko-star@live.de"
 sudo lan
+amk
